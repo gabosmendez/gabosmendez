@@ -4,5 +4,5 @@
 com experiência em projetos de mineração a céu aberto, CAD e dados GIS;
 - 👨‍💻 Estou cursando Análise e Desenvolvimento de Sistemas (2023/1);
 - 👨‍💻 Estou cursando Desenvolvimento Web na Awari (2022/1);
-- 👨‍🚀 Tenho interesse no aprendizado dev e de integração com a área de mineração.
+- 👨‍🚀 Tenho interesse no aprendizado dev e integração com a área de mineração.
 
